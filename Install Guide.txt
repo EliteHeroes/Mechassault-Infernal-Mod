@@ -10,7 +10,7 @@ Pre-requisites
 
 ------------------------------------------------------------------
 Installing
- - Download the latest version of the mod from the 'Releases' page and extract the contents from 'Infernal Difficulty.zip'.
+ - Download the latest version of the mod from the 'Releases' page and extract the contents from 'Infernal.Difficulty.zip'.
  - Open your Mechassault game folder. For console, you can do this using an FTP program to connect a modded Xbox to a PC.
  - Choose which version is most relevant to your current setup and open that folder, i.e. Rebalance+Infernal for the Mechassault Mod Pack install.
  - Drag and drop the files from inside the chosen folder into the Mechassault game folder (where you previously installed the Mod Pack or Base Mod), agreeing to replace the files.
